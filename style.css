@@ -1,0 +1,49 @@
+h3{
+    color:brown;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    color:darkblue;
+}
+#navi li{
+display: inline;
+margin: 0 50px;
+
+}
+ h3{
+    margin: 0;
+    padding: 0;
+ }
+ .kirmizi{
+    color: blue;
+ }
+ .cizgili{
+    text-decoration: underline;
+ }
+ #navi{
+    font-size: 15px;
+ }
+  .sitelinkleribaslik{
+font-size: 25px;
+  }
+  ul#navi{
+    list-style-type: none;
+    margin: -8px -10px;
+    padding: 0;
+
+  }
+  ul#navi{
+   background-color:gray;
+  }
+li a {
+color:lightblue;
+text-align: center;
+padding: 0px 0px;
+text-decoration: none;
+
+}
+li a:hover {
+background-color:rgb(0, 63, 105);
+}
